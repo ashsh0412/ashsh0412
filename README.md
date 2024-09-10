@@ -33,6 +33,7 @@
   </a>
 </p>
 
-<!--!![아이디's github stats](https://github-readme-stats.vercel.app/api?username=isgeekcode&show_icons=true) -->
-
-[![GeekCode's github stats](https://github-readme-stats.vercel.app/api?username=M1zz&count_private=true&custom_title=GeekCode's github 🍊 _color=30,92a8d1,f7cac9 _color=fff _color=fff)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">💡 My Git Stats 💡</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashsh0412&theme=dark&include_all_commits=true" />
+</div>
