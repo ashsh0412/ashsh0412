@@ -35,4 +35,4 @@
 
 <!--!![아이디's github stats](https://github-readme-stats.vercel.app/api?username=isgeekcode&show_icons=true) -->
 
-[![Sungho's github stats](https://github-readme-stats.vercel.app/api?username=M1zz&count_private=true&custom_title=Sungho Baek github  _color=30,92a8d1,f7cac9 _color=fff _color=fff)](https://github.com/ashsh0412/github-readme-stats)
+[![GeekCode's github stats](https://github-readme-stats.vercel.app/api?username=M1zz&count_private=true&custom_title=GeekCode's github 🍊 _color=30,92a8d1,f7cac9 _color=fff _color=fff)](https://github.com/anuraghazra/github-readme-stats)
