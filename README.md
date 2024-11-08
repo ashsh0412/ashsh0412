@@ -6,8 +6,8 @@
     <a href="https://www.instagram.com/sunghob/">
       <img src="https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100012587596689/">
-      <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook">
+    <a href="https://www.linkedin.com/in/sungho-baek">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
     </a>
   </p>
 
