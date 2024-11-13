@@ -38,7 +38,7 @@
     <a href="https://github.com/ashsh0412">
       <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashsh0412&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord" />
     </a>
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=ashsh0412&theme=dark&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ashsh0412&show_icons=true&theme=dark" alt="GitHub Stats" />
   </div>
 
 ---
