@@ -5,10 +5,10 @@
 
   <h2>📬 Let's Connect</h2>
   <a href="https://www.instagram.com/sunghob/">
-    <img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=flat&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.linkedin.com/in/sungho-baek">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
   
   <hr/>
@@ -32,6 +32,17 @@
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   </p>
   
+  <hr/>
+
+  <h3>🛢️ Database Tech Stack</h3>
+  <p>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+  </p>
+
   <hr/>
 
   <h3>💡 Most Used Languages & 🚀 GitHub Stats</h3>
