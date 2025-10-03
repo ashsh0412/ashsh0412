@@ -58,17 +58,11 @@
   
   ---
   
-  ## 📊 Contribution Graph
+  ## Contribution Graph
   <a href="https://github.com/ashsh0412/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashsh0412&theme=tokyonight&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="95%"/>
   </a>
   
   ---
-  
-  <div align="center">
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashsh0412%2Fhit-counter&count_bg=%233DC896&title_bg=%233B3535&title=hits&edge_flat=false"/>
-    </a>
-  </div>
   
 </div>
